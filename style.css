@@ -1,0 +1,32 @@
+.color{
+    background-color:#F3F1FF;
+}
+.navbar img{
+    width:30px;
+}
+.container-fluid img{
+    width: 50px;
+}
+main{
+    max-width:870px;
+}
+.top-player{
+    background-color: #FFFFFF;
+}
+.container img{
+    width: 150px;
+    
+}
+.blogs{
+    background-color:#FFFFFF;
+    margin:30px;
+
+}
+h3{
+    color:navbar-dark bg-primary;
+}
+.group{
+    background-color: #FFFFFF;
+    width:870px;
+}
+
